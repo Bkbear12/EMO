@@ -7,7 +7,8 @@ Institute for Intelligent Computing, Alibaba Group
 
 <a href='https://humanaigc.github.io/emote-portrait-alive/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href='https://arxiv.org/abs/2402.17485'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/VlJ71kzcn9Y)
+[![YouTube![IMG_1890](https://github.com/user-attachments/assets/b29a0cf2-a988-4a62-9729-57a5477ec891)
+](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/VlJ71kzcn9Y)
 
 ![pipeline](content/intro.png)
  
